@@ -1,3 +1,3 @@
 module github.com/afga95/stress-test
 
-go 1.22.2
+go 1.21.0
